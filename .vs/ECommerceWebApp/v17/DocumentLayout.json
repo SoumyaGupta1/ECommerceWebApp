@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\buyer\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\buyer\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\buyer\\buyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\buyer\\buyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\buyer\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\buyer\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\seller\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\seller\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\buyer\\confirmpurchase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\buyer\\confirmpurchase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\seller\\seller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\seller\\seller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\seller\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\seller\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250816202002_ProductCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250816202002_ProductCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250816100237_AddStockAndSellerToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250816100237_AddStockAndSellerToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\migrations\\20250815100407_productstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:migrations\\20250815100407_productstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|c:\\users\\hp\\source\\repos\\ecommercewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FED4BA48-928E-405D-8F2F-558BDF281125}|ECommerceWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditProduct.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T19:33:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\ManageProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageProducts.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\ManageProducts.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageProducts.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T19:02:43.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T11:54:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T12:28:04.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuyerController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "Controllers\\BuyerController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:55:16.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuyNow.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\BuyNow.cshtml",
+              "RelativeDocumentMoniker": "Views\\Buyer\\BuyNow.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\BuyNow.cshtml",
+              "RelativeToolTip": "Views\\Buyer\\BuyNow.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T19:11:08.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Buyer\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Buyer\\Cart.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T10:34:26.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Buyer.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\Buyer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Buyer\\Buyer.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\Buyer.cshtml",
+              "RelativeToolTip": "Views\\Buyer\\Buyer.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T09:28:40.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Seller\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seller\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Seller\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Seller\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T10:37:42.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T14:53:58.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfirmPurchase.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\ConfirmPurchase.cshtml",
+              "RelativeDocumentMoniker": "Views\\Buyer\\ConfirmPurchase.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Buyer\\ConfirmPurchase.cshtml",
+              "RelativeToolTip": "Views\\Buyer\\ConfirmPurchase.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T11:34:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAArwJgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:10:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T12:47:11.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAEsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:04:01.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T18:24:25.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Controllers\\SellerController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAIAwwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:31:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:46:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seller.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Seller\\Seller.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seller\\Seller.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Seller\\Seller.cshtml",
+              "RelativeToolTip": "Views\\Seller\\Seller.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T19:33:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Seller\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seller\\Add.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Seller\\Add.cshtml",
+              "RelativeToolTip": "Views\\Seller\\Add.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T19:24:40.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAywJYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:39:20.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageUsers.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T10:48:13.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T19:35:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:00:28.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250816202002_ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250816202002_ProductCategory.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250816202002_ProductCategory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250816202002_ProductCategory.cs",
+              "RelativeToolTip": "Migrations\\20250816202002_ProductCategory.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T20:20:03.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:57:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABwAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T15:34:12.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T18:39:23.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T18:33:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "Views\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T19:04:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250815100407_ProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250815100407_ProductsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250815100407_ProductsTable.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250815100407_ProductsTable.cs",
+              "RelativeToolTip": "Migrations\\20250815100407_ProductsTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:33:03.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250816100237_AddStockAndSellerToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250816100237_AddStockAndSellerToProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250816100237_AddStockAndSellerToProduct.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Migrations\\20250816100237_AddStockAndSellerToProduct.cs",
+              "RelativeToolTip": "Migrations\\20250816100237_AddStockAndSellerToProduct.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:02:37.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:37:51.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T18:32:15.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T14:49:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T14:49:27.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T14:49:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T14:49:25.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T14:49:23.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T14:49:18.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T18:24:44.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:00:31.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ECommerceWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T15:55:36.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

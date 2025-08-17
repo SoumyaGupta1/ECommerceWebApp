@@ -1,0 +1,27 @@
+﻿@model ECommerceWebApp.Models.Product
+
+<div class="alert alert-success mt-4">
+    <h2>✅ Order placed successfully!</h2>
+    <p>You have purchased: <strong>@Model.Name</strong></p>
+    <p>Remaining Stock: @Model.Stock</p>
+</div>
+<hr />
+
+<!-- ⭐ Rating Form -->
+<h4>Rate this Product</h4>
+<form method="post" asp-action="SubmitRating">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class="form-group">
+        <select name="rating" class="form-control" required>
+            <option value="">-- Select Rating --</option>
+            <option value="1">⭐ 1</option>
+            <option value="2">⭐ 2</option>
+            <option value="3">⭐ 3</option>
+            <option value="4">⭐ 4</option>
+            <option value="5">⭐ 5</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success mt-2">Submit Rating</button>
+</form>
+
+<a asp-action="Buyer" class="btn btn-primary">Continue Shopping</a>

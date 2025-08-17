@@ -1,0 +1,80 @@
+﻿@model List<ECommerceWebApp.Models.Product>
+
+@{
+    ViewData["Title"] = "Available Products";
+}
+
+<h2>Available Products</h2>
+
+<form method="get" asp-action="Buyer" class="mb-3">
+    <div class="row">
+        <div class="col-md-3">
+            <input type="text" name="searchTerm" placeholder="Search..." class="form-control" />
+        </div>
+        <div class="col-md-2">
+            <select name="category" class="form-control">
+                <option value="">-- Category --</option>
+                @foreach (var cat in ViewBag.Categories as List<string>)
+                {
+                    <option value="@cat">@cat</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-2">
+            <input type="number" name="minPrice" placeholder="Min Price" class="form-control" />
+        </div>
+        <div class="col-md-2">
+            <input type="number" name="maxPrice" placeholder="Max Price" class="form-control" />
+        </div>
+        <div class="col-md-2">
+            <select name="rating" class="form-control">
+                <option value="">-- Rating --</option>
+                <option value="1">1+ ⭐</option>
+                <option value="2">2+ ⭐</option>
+                <option value="3">3+ ⭐</option>
+                <option value="4">4+ ⭐</option>
+                <option value="5">5 ⭐</option>
+            </select>
+        </div>
+        <div class="col-md-1">
+            <button type="submit" class="btn btn-primary w-100">Filter</button>
+        </div>
+    </div>
+</form>
+
+<!-- 🔹 Product Table -->
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Rating</th>
+            <th>Image</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>₹@product.Price</td>
+                <td>@product.Category</td>
+                <td>⭐ @product.Rating</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.ImagePath))
+                    {
+                        <img src="@product.ImagePath" width="100" />
+                    }
+                </td>
+                <td>
+@*                     <a class="btn btn-primary" href="/Buyer/AddToCart/@product.Id">Add to Cart</a>
+ *@                    <a class="btn btn-success" href="/Buyer/BuyNow/@product.Id">Buy Now</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

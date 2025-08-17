@@ -1,0 +1,70 @@
+﻿<div class="container mt-4">
+    <h2>Manage Products</h2>
+
+    <form method="get" asp-action="ManageProducts" class="row g-3 mb-4">
+        <div class="col-md-3">
+            <input type="text" name="searchTerm" class="form-control" placeholder="Search products..." />
+        </div>
+        <div class="col-md-2">
+            <select name="category" class="form-select">
+                <option value="">All Categories</option>
+                <option value="Electronics">Electronics</option>
+                <option value="Fashion">Fashion</option>
+                <option value="Home">Home</option>
+                <option value="Grocery">Grocery</option>
+
+            </select>
+        </div>
+        <div class="col-md-2">
+            <input type="number" name="minPrice" class="form-control" placeholder="Min Price" />
+        </div>
+        <div class="col-md-2">
+            <input type="number" name="maxPrice" class="form-control" placeholder="Max Price" />
+        </div>
+        <div class="col-md-2">
+            <select name="rating" class="form-select">
+                <option value="">Any Rating</option>
+                <option value="1">1 ⭐ & above</option>
+                <option value="2">2 ⭐ & above</option>
+                <option value="3">3 ⭐ & above</option>
+                <option value="4">4 ⭐ & above</option>
+                <option value="5">5 ⭐ only</option>
+            </select>
+        </div>
+        <div class="col-md-1">
+            <button type="submit" class="btn btn-primary w-100">Filter</button>
+        </div>
+    </form>
+
+    <!-- Table of Products -->
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Rating</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Category</td>
+                    <td>₹@product.Price</td>
+                    <td>@product.Rating ⭐</td>
+                    <td>
+                        <img src="@product.ImagePath" alt="@product.Name" width="60" />
+                    </td>
+                    <td>
+                        <a asp-action="EditProduct" asp-route-id="@product.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="DeleteProduct" asp-route-id="@product.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

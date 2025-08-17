@@ -1,0 +1,41 @@
+﻿@model List<ECommerceWebApp.Models.Product>
+
+<h2>My Cart</h2>
+
+<form asp-action="Cart" method="post">
+    <table class="table table-bordered mt-3">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Available Stock</th>
+                <th>Quantity</th>
+                <th>Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <td>@Model[i].Id</td>
+                    <td>@Model[i].Name</td>
+                    <td>@Model[i].Price</td>
+                    <td>@Model[i].Stock</td>
+                    <td>
+                        <input type="hidden" asp-for="@Model[i].Id" />
+                        <input type="number" asp-for="@Model[i].Quantity" min="1" max="@Model[i].Stock" class="form-control" />
+                    </td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(Model[i].ImagePath))
+                        {
+                            <img src="@Model[i].ImagePath" width="100" />
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-success">Update Cart</button>
+</form>
