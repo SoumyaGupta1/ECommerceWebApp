@@ -1,1 +1,1 @@
-I have added the MDF database file for this project, which contains all the necessary data for running the application. Additionally, I have included a video demonstration that showcases the functionality and workflow of the project, making it easier to understand and use.
+I have added the MDF database file for this project, which contains all the necessary data for running the application.
